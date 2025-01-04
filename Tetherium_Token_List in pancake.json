@@ -1,0 +1,19 @@
+{
+    "name": "Tetherium Token List",
+    "logoURI": "https://raw.githubusercontent.com/Tethecoin/TETHERIUM/main/logo.png",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 56,
+            "address": "0x27941406f87C892814c12D95eBCd8bBC444c0CeC",
+            "name": "Tetherium",
+            "symbol": "Teth",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Tethecoin/TETHERIUM/main/logo.png"
+        }
+    ]
+}
